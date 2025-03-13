@@ -1,0 +1,5 @@
+Este es un programa donde el profesor nos pidio que hicieramos 3 apps(Con Windows Form) y que estas tengan un acceso directo desde un formulario,
+las apps son las siguientes:
+1-Calculadora.
+2-Editor de Texto.
+3-Paint.
